@@ -1,0 +1,29 @@
+
+* {
+    background-color: black;
+}
+
+img {
+    border: 5px solid white;
+    height: 600px;
+    width: 1000px;
+}
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    color: white;  
+    font-size: 70px;
+    margin: 0px;
+}
+
+h3 {
+    font-family: 'Caveat', cursive;
+    color: white;
+    font-size: 20px;
+    margin: 50px;
+    
+}
+
+div {
+    text-align: center;
+}
